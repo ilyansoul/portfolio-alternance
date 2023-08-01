@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1, h2, h3 {
+    font-family: 'Eurostile', sans-serif;
+  }
+
+p {
+  font-family: 'Europa', sans-serif;
+
+}
